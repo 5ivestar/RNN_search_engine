@@ -15,3 +15,13 @@ java -mx3g -cp "./*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer [port] [tie
 
 #specifying CoreNLP server location
 nlpserver="localhost:9000"
+
+rnn_autoencoder.ipynb
+training RNN like autoencoder
+term1, term2 -> RNN output -> term1,term2
+
+	
+rnn_wordnet.ipynb
+training RNN with wordnet definition.
+dictionary definition -> word
+

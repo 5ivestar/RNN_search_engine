@@ -2,3 +2,4 @@ data/*
 word2vec.mod.syn0.npy
 word2vec.mod.syn1neg.npy
 .ipynb_checkpoints/
+word2vec_v2*
